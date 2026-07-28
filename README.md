@@ -1,1 +1,0 @@
-Trustee Agent Native Design Framework: A Native Governance-Embedded Agent Paradigm for High-Stakes AI Decisions. Architecture-native human authority control to solve AI overreach in regulated industries.

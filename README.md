@@ -1,2 +1,1 @@
-# trustee-agent-governance-demo
-A Trusteeship AI Reasoning Demo Framework for value-sensitive decisions. Implements the Six-Step Trustee Deduction Flow to ensure AI produces reasoning materials while humans retain final decision sovereignty.
+Trustee Agent Native Design Framework: A Native Governance-Embedded Agent Paradigm for High-Stakes AI Decisions. Architecture-native human authority control to solve AI overreach in regulated industries.
